@@ -1,0 +1,4 @@
+biopython==1.83
+levenshtein==0.23.0
+numpy==1.26.3
+termcolor==2.4.0
